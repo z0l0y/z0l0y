@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <p align="center" style="font-size: 24px;"><b>My Github Stats</b></p>
 
+My Github Stats
+===============
 <p align="center">
 
 | Github Statistics                                            | My Language                                                  |
