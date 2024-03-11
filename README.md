@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <p style="font-size: 100px;"><b>My Github Stats</b></p>
 </div>
 
+My Github Stats
+---------------
+
 <p align="center">
 
 | Github Statistics                                            | My Language                                                  |
