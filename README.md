@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+
+
+**🎓 freshman student at [Huazhong University of Science and Technology]([华中科技大学 (hust.edu.cn)](https://www.hust.edu.cn/))** **Majoring in Software Engineering**
+
 
 <!--
 **z0l0y/z0l0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
