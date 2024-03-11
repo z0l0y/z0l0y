@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ![z0l0y's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0y&show_icons=true&theme=tokyonight)
 
- [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=z0l0y&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
  [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/z0l0y)
