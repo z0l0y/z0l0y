@@ -1,6 +1,6 @@
 ## About Me
 
-### 🎓 I am a student at [Huazhong University of Science and Technology](https://www.hust.edu.cn/)** **Majoring in Software Engineering**
+### 🎓 I am a student at [Huazhong University of Science and Technology](https://www.hust.edu.cn/) **Majoring in Software Engineering**
 
 ### 😄 Of course, if you're interested, you can take a look at [my personal blog](https://z0l0y.github.io)
 
