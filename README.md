@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="font-size: 100px;"><b>My Github Stats</b></p>
+<div align="center">
+  <p style="font-size: 100px;"><b>My Github Stats</b></p>
+</div>
 
-## <p align="center">
+<p align="center">
 
 | Github Statistics                                            | My Language                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
