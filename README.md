@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<font face="STCAIYUN">
 <p align="center">My Github Stats</p>
+</font>
 
 <p align="center">
 
@@ -24,4 +25,4 @@ Here are some ideas to get you started:
 | ![z0l0y's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0y&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z0l0y&layout=compact) |
 
 </p>
- [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/z0l0y)
+
