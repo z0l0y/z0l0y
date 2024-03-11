@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="font-size: 24px;"><b>My Github Stats</b></p>
+<p align="center" style="font-size: 60px;"><b>My Github Stats</b></p>
 
-My Github Stats
-===============
 <p align="center">
 
 | Github Statistics                                            | My Language                                                  |
