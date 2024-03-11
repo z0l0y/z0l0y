@@ -1,8 +1,10 @@
 ## About Me
 
-### 🎓 freshman student at [Huazhong University of Science and Technology](https://www.hust.edu.cn/)** **Majoring in Software Engineering**
+### 🎓 I am a student at [Huazhong University of Science and Technology](https://www.hust.edu.cn/)** **Majoring in Software Engineering**
 
 ### 😄 Of course, if you're interested, you can take a look at [my personal blog](https://z0l0y.github.io)
+
+### 📫 Email: zloy0709@outlook.com
 
 <!--
 **z0l0y/z0l0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
