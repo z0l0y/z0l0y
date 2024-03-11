@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>My Github Stats</center>
+<p align="center">My Github Stats</p>
 
 
 | Github Statistics                                            | My Language                                                  |
