@@ -1,4 +1,4 @@
-### About Me
+<p align="center" style="font-size: 24px;"><b>About Me</b></p>
 
 
 **🎓 freshman student at [Huazhong University of Science and Technology]([华中科技大学 (hust.edu.cn)](https://www.hust.edu.cn/))** **Majoring in Software Engineering**
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><b>My Github Stats</b></p>
+<p align="center" style="font-size: 24px;"><b>My Github Stats</b></p>
 
 <p align="center">
 
