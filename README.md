@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![z0l0y's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0y&show_icons=true&theme=tokyonight)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=z0l0y)](https://github.com/anuraghazra/github-readme-stats)
+
  [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/z0l0y)
