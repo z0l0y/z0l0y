@@ -1,7 +1,7 @@
 ### About Me
 
 
-**🎓 freshman student at [Huazhong University of Science and Technology]([华中科技大学 (hust.edu.cn)](https://www.hust.edu.cn/))** **Majoring in Software Engineering**
+**🎓 freshman student at [Huazhong University of Science and Technology]((https://www.hust.edu.cn/))** **Majoring in Software Engineering**
 
 
 <!--
